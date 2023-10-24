@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "Fruusthene Colmanthust",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Fruusthene",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
 		"science": 12,
-		"maintenance": 96,
+		"maintenance": 80,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"
@@ -15,10 +15,10 @@
 	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
+		"uniqueTo": "Fruusthene",
+		"cost": 50,
 		"hurryCostModifier": 160,
-		"happiness": 2,
+		"happiness": 7,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
 	}
