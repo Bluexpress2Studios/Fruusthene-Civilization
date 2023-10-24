@@ -1,38 +1,37 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "Fruusthene",
+		"leaderName": "Jaxon Fyve",
+		"adjective": ["Fruusthen"],
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Oh, a new discovery, good to know, how are you?",
+		"startIntroPart2": "We are a strong nation, don't even think about getting in our way.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "We warn you, now suffer!",
+		"attacked": "You plan to invade us, you will regret it!",
+		"defeated": "How could we lose! I assure you that you are not that strong, I congratulate you warrior.",
+		"introduction": "Everything belongs to us, do you agree? Welcome",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "What do you want now, let it be the last time!",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"afterPeace": "Haha... I hope you don't intervene again or we will burn you to ashes!",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [78,128,152],
+		"innerColor": [241,218,196],
+		"unique": "[+2 Production, +5 Food] [in all cities] <before discovering[Steam Power]>",
+		"cities": ["Xainshire", "Winterward", "Tapgend", "Yhaaross", "Khofphia", "Nistead",
+				"Qraco", "Phago", "Zlaso", "Ofaamnard", "Heflas", "Elesvale", "Ekapus",
+				"Yeuwell", "Illediff", "Duamsas", "Uvruburn", "Wupvale", "Ansgend", "Fruuphia"]
 	}
 ]
