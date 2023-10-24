@@ -2,10 +2,10 @@
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Fruusthene",
 		"replaces": "Machine Gun",
 		"movement": 2,
-		"strength": 90,
+		"strength": 100,
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 500,
