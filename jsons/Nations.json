@@ -6,26 +6,26 @@
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Oh, a new discovery, good to know, how are you?",
-		"startIntroPart2": "We are a strong nation, don't even think about getting in our way.",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
 		
-		"declaringWar": "We warn you, now suffer!",
+		"declaringWar": "You are in our way, prepare to suffer.",
 		"attacked": "You plan to invade us, you will regret it!",
 		"defeated": "How could we lose! I assure you that you are not that strong, I congratulate you warrior.",
-		"introduction": "Everything belongs to us, do you agree? Welcome",
+		"introduction": "Welcome. I am King Jaxon Fyve; one of the few living estatega warriors.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Hello.",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now, let it be the last time!",
+		"hateHello": "Hey, what do you want?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
 		"afterPeace": "Haha... I hope you don't intervene again or we will burn you to ashes!",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"tradeRequest": "We present this offer to you on our behalf, be grateful for our actions.",
 
 		"outerColor": [78,128,152],
 		"innerColor": [241,218,196],
