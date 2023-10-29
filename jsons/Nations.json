@@ -29,6 +29,8 @@
 
 		"outerColor": [78,128,152],
 		"innerColor": [241,218,196],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Strategic warriors",
 		"unique": "[+2 Production, +5 Food] [in all cities] <before discovering[Steam Power]>",
 		"cities": ["Xainshire", "Winterward", "Tapgend", "Yhaaross", "Khofphia", "Nistead",
 				"Qraco", "Phago", "Zlaso", "Ofaamnard", "Heflas", "Elesvale", "Ekapus",
